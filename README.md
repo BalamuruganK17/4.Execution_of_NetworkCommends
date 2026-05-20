@@ -52,7 +52,7 @@ print(s.recv(1024).decode())
 <img width="1917" height="903" alt="Screenshot 2026-05-20 151839" src="https://github.com/user-attachments/assets/d51fe2c8-725a-410d-8809-a6af800fab88" />
 ## IP CONFIGURATION
 <img width="1898" height="899" alt="Screenshot 2026-05-20 151855" src="https://github.com/user-attachments/assets/3baf02b5-939c-48b4-b23b-ce2639ccba62" />
-## GETMAC 
+## GETMAC
 <img width="1781" height="370" alt="Screenshot 2026-05-20 151920" src="https://github.com/user-attachments/assets/88799d24-320f-46f1-a547-1a608e04796f" />
 ## ARP
 <img width="1859" height="900" alt="Screenshot 2026-05-20 151933" src="https://github.com/user-attachments/assets/35f8c567-2172-44fb-97f2-a1c9dcfe11d2" />
